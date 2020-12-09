@@ -28,7 +28,7 @@ export default amazing;
 
 # How it works
 
-{Describe how it works. Include images if possible.}
+{Autocomplete application using react native, node js and graphql cache}
 
 # Developing
 
