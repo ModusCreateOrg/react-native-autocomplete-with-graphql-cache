@@ -6,7 +6,11 @@ const server = new ApolloServer({
   typeDefs,
   resolvers,
   tracing: true,
-  cacheControl: true,
+  cacheControl: {
+    defaultMaxAge: 300, // default cache timeout
+    calculateHttpHeaders: false,
+    stripFormattedExtensions: true,
+  },
 });
 
 server.listen().then(({ url }) => {
