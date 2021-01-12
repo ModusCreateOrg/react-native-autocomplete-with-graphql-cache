@@ -7,10 +7,6 @@ Autocomplete mobile application, using GraphQL with NodeJS to handle the server 
 
 - [Getting Started](#getting-started)
 - [How it Works](#how-it-works)
-- [Developing](#developing)
-  - [Prerequisites](#prerequisites)
-  - [Testing](#testing)
-  - [Contributing](#contributing)
 - [Modus Create](#modus-create)
 - [Licensing](#licensing)
 
