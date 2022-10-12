@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ModusCreateOrg/react-native-autocomplete-with-graphql-cache#readme",
   "dependencies": {
-    "apollo-server": "^2.19.0",
+    "apollo-server": "^2.25.4",
     "express": "^4.17.1",
     "graphql": "^15.4.0",
     "node-fetch": "^2.6.1",
